@@ -9,6 +9,7 @@ This repository contains an analysis and prediction project for the Rossmann Sal
 - [Dataset Description](#dataset-description)
 - [Methods Used](#methods-used)
 - [Training](#Training)
+- [Evaluation Metrics](#evaluation-metrics)
 - [Usage](#usage)
 
 ## Project Overview
